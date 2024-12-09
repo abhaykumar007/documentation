@@ -52,7 +52,7 @@ This page is designed for farmers and farm workers, providing a simple and user-
 
 1. Click on a farm card to open the **details sidebar**.
 2. The sidebar displays all relevant details for that farm.
-   ![Farm Details Sidebar](path/to/sidebar-screenshot.png)
+   ![Farm Details Sidebar](./farmAttachment/farmDetails.png)
 
 ### Editing Farm Details
 
