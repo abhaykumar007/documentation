@@ -52,14 +52,17 @@ This page is designed for farmers and farm workers, providing a simple and user-
 
 1. Click on a farm card to open the **details sidebar**.
 2. The sidebar displays all relevant details for that farm.
+
    ![Farm Details Sidebar](./farmAttachment/farmDetails.png)
 
 ### Editing Farm Details
 
 1. Click on the value you want to edit (e.g., Farm Area).
 2. An input box appears with two buttons:
+
    - **✔**: Saves the updated data.
    - **✖**: Cancels the edit and reverts to the original data.
+
      ![Editing Farm Area](./farmAttachment/editField.png)
 
 ### Deleting a Farm
@@ -68,6 +71,7 @@ This page is designed for farmers and farm workers, providing a simple and user-
 2. Click the **three-dot menu** in the upper-right corner.
 3. Select the **Delete** option.
 4. Confirm deletion to remove the farm permanently.
+
    ![Delete Farm Option](./farmAttachment/farmDelete.png)
 
 ### Closing the Sidebar
