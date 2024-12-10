@@ -112,10 +112,14 @@ The Add Farm Page is designed to:
    <!--
    [Add polyhouse](./farmAttachment/addPolyhouse.mp4) -->
 
-<video controls width="100%">
+<!-- <video controls width="100%">
     <source src="./farmAttachment/addPolyhouse.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video> -->
+
+<iframe width="560" height="315" src="./farmAttachment/addPolyhouse.mp4" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 2. **Configure Zone**:
 
