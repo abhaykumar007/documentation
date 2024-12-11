@@ -114,6 +114,7 @@ The Add Farm Page is designed to:
      ![Add polyhouse](./farmAttachment/addPolyhouse.png)
      ![Add polyhouse](./farmAttachment/addPolyhouse.mp4)
      ![Add polyhouse](./farmAttachment/addPolyhouse.gif)
+     ![Add polyhouse](./farmAttachment/addPolyhouse1.gif)
 
 2. **Configure Zone**:
 
