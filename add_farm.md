@@ -112,9 +112,6 @@ The Add Farm Page is designed to:
    - To delete a polyhouse, click the delete icon in the top-right corner of the card
 
      ![Add polyhouse](./farmAttachment/addPolyhouse.png)
-     ![Add polyhouse](./farmAttachment/addPolyhouse.mp4)
-     ![Add polyhouse](./farmAttachment/addPolyhouse.gif)
-     ![Add polyhouse](./farmAttachment/addPolyhouse1.gif)
 
 2. **Configure Zone**:
 
