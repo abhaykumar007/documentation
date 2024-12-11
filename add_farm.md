@@ -109,16 +109,9 @@ The Add Farm Page is designed to:
    - You can add one or more polyhouses to the farm.
    - Each polyhouse is displayed as a numbered card (e.g., #1, #2, etc.).
    - Click the **Add Polyhouse** button to add a new card.
-   - To delete a polyhouse, click the delete icon in the top-right corner of the card.
-     <!--
-     [Add polyhouse](./farmAttachment/addPolyhouse.mp4) -->
+   - To delete a polyhouse, click the delete icon in the top-right corner of the card
 
-     [Add polyhouse](./farmAttachment/addPolyhouse.gif)
-
-<!-- <video controls width="100%">
-    <source src="./farmAttachment/addPolyhouse.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video> -->
+     [Add polyhouse](./farmAttachment/addPolyhouse.png)
 
 2. **Configure Zone**:
 
